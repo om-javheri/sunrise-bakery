@@ -1,0 +1,6 @@
+# Sunrise Bakery
+
+## Pages
+
+- [Sunrise Bakery](https://om-javheri.github.io/sunrise-bakery/): Hand-shaped loaves and flaky pastries, baked fresh every morning since 1998.
+- [Our story](https://om-javheri.github.io/sunrise-bakery/about/): Rosa opened Sunrise with one oven and a sourdough starter from her grandmother. Twenty-five years later we still shape every loaf by hand.
